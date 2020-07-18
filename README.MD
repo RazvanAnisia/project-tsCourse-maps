@@ -8,5 +8,5 @@
 
 ## Dev environment
 
-To get the dev server up run:
+To get the dev server up you need Parcel installed globally,then run:
 `parcel index.html`
